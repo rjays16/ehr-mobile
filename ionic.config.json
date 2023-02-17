@@ -1,0 +1,7 @@
+{
+  "name": "ehr-mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

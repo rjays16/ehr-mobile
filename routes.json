@@ -1,0 +1,9 @@
+{
+  "/api/doctor/patient/lists": "/patients",
+  "/api/doctor/patient/lists\\?patient_type=all": "/patients",
+  "/api/doctor/patient/lists\\?patient_type=:deptenc_code": "/patients?deptenc_code=:deptenc_code",
+  "/api/login": "/login/1",
+  "/api/doctor/patient/information\\?id=:encounter_no": "/patient-information/:encounter_no",
+  "/api/doctor/patient/referrals/data\\?id=:encounter_no": "/referrals/:encounter_no"
+
+}

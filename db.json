@@ -1,0 +1,1141 @@
+{
+  "patients": [
+    {
+      "encounter_no": "2019022832",
+      "pid": "3008279",
+      "encounter_date": "2019-09-04 17:43:00",
+      "name_first": "FAJAD",
+      "name_last": "FAMA",
+      "name_middle": "ANTOR",
+      "suffix": null,
+      "gender": "m",
+      "birth_date": "1954-12-30 00:00:00",
+      "admit_diagnosis2": "dfsdfs dfdf",
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": "100527",
+      "role_id": null,
+      "deptenc_code": "ipe",
+      "er_areaid": 154,
+      "area_id": 154,
+      "area_code": "IM",
+      "area_desc": "Internal Medicine",
+      "age": "64 yr/s"
+    },
+    {
+      "encounter_no": "201950384737",
+      "pid": "2374395",
+      "encounter_date": "2019-09-04 10:06:00",
+      "name_first": "LELENGY",
+      "name_last": "RAMAN",
+      "name_middle": "ARLANTE",
+      "suffix": null,
+      "gender": "f",
+      "birth_date": "1975-08-30 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ipe",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "44 yr/s"
+    },
+    {
+      "encounter_no": "201950384736",
+      "pid": "2514378",
+      "encounter_date": "2019-09-04 10:06:00",
+      "name_first": "JESSA DE",
+      "name_last": "ESTREMOS",
+      "name_middle": "DIOLA",
+      "suffix": null,
+      "gender": "f",
+      "birth_date": "1995-01-10 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ere",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "24 yr/s"
+    },
+    {
+      "encounter_no": "2019413157",
+      "pid": "2033595",
+      "encounter_date": "2019-09-04 10:05:00",
+      "name_first": "CHERRY",
+      "name_last": "MILLARO",
+      "name_middle": "DABAL",
+      "suffix": null,
+      "gender": "f",
+      "birth_date": "1988-07-27 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ope",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "31 yr/s"
+    },
+    {
+      "encounter_no": "201950384735",
+      "pid": "3244657",
+      "encounter_date": "2019-09-04 10:04:00",
+      "name_first": "EUFRACIA",
+      "name_last": "ROXAS",
+      "name_middle": "VILLANUEVA",
+      "suffix": "",
+      "gender": "f",
+      "birth_date": "1976-03-13 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": "103471",
+      "role_id": null,
+      "deptenc_code": "ope",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "43 yr/s"
+    },
+    {
+      "encounter_no": "201950384734",
+      "pid": "3228798",
+      "encounter_date": "2019-09-04 10:04:00",
+      "name_first": "BABY JEAN",
+      "name_last": "SARDEÑA",
+      "name_middle": "CAMINERO",
+      "suffix": "",
+      "gender": "f",
+      "birth_date": "1993-11-10 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ope",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "25 yr/s"
+    },
+    {
+      "encounter_no": "201950384733",
+      "pid": "2218374",
+      "encounter_date": "2019-09-04 10:04:00",
+      "name_first": "LOLITA",
+      "name_last": "LUBON",
+      "name_middle": "CAMARILLO",
+      "suffix": null,
+      "gender": "f",
+      "birth_date": "1989-05-24 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ope",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "30 yr/s"
+    },
+    {
+      "encounter_no": "201950384732",
+      "pid": "3256194",
+      "encounter_date": "2019-09-04 10:04:00",
+      "name_first": "JERLIE",
+      "name_last": "TUCIO",
+      "name_middle": "MALIXI",
+      "suffix": "",
+      "gender": "f",
+      "birth_date": "1991-10-27 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ipe",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "27 yr/s"
+    },
+    {
+      "encounter_no": "2019413156",
+      "pid": "1379943",
+      "encounter_date": "2019-09-04 10:04:00",
+      "name_first": "ROLLY, JR",
+      "name_last": "DEMERIN",
+      "name_middle": "SEMILLA",
+      "suffix": null,
+      "gender": "m",
+      "birth_date": "1982-06-19 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ipe",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "37 yr/s"
+    },
+    {
+      "encounter_no": "201950384731",
+      "pid": "3256197",
+      "encounter_date": "2019-09-04 10:03:00",
+      "name_first": "RITCHE",
+      "name_last": "CODEÑERA",
+      "name_middle": "DEYRIT",
+      "suffix": "",
+      "gender": "f",
+      "birth_date": "1986-05-30 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "phs",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "33 yr/s"
+    },
+    {
+      "encounter_no": "201950384730",
+      "pid": "2993222",
+      "encounter_date": "2019-09-04 10:03:00",
+      "name_first": "MARICEL",
+      "name_last": "ROXAS",
+      "name_middle": "VILLANUEVA",
+      "suffix": null,
+      "gender": "f",
+      "birth_date": "1998-10-06 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": "103471",
+      "role_id": null,
+      "deptenc_code": "ere",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "20 yr/s"
+    },
+    {
+      "encounter_no": "201950384729",
+      "pid": "3113533",
+      "encounter_date": "2019-09-04 10:03:00",
+      "name_first": "ALEX",
+      "name_last": "CAMBRONERO",
+      "name_middle": "LUAYON",
+      "suffix": null,
+      "gender": "m",
+      "birth_date": "1961-06-30 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ipe",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "58 yr/s"
+    },
+    {
+      "encounter_no": "201950384728",
+      "pid": "3256184",
+      "encounter_date": "2019-09-04 10:03:00",
+      "name_first": "BERNARDO",
+      "name_last": "ENGYO",
+      "name_middle": "TUBAY",
+      "suffix": "",
+      "gender": "m",
+      "birth_date": "1994-02-24 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ope",
+      "er_areaid": null,
+      "area_id": null,
+      "area_code": null,
+      "area_desc": null,
+      "age": "25 yr/s"
+    },
+    {
+      "encounter_no": "201950384727",
+      "pid": "718947",
+      "encounter_date": "2019-09-04 10:02:00",
+      "name_first": "EMILY",
+      "name_last": "FABIAÑA",
+      "name_middle": "CALLAO",
+      "suffix": null,
+      "gender": "f",
+      "birth_date": "1970-11-04 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ope",
+      "er_areaid": 136,
+      "area_id": 136,
+      "area_code": "ENT-HNS",
+      "area_desc": "ENT-HNS",
+      "age": "48 yr/s"
+    },
+    {
+      "encounter_no": "201950384726",
+      "pid": "2704799",
+      "encounter_date": "2019-09-04 10:02:00",
+      "name_first": "MARK ENZO",
+      "name_last": "REGIDOR",
+      "name_middle": "APARRI",
+      "suffix": null,
+      "gender": "m",
+      "birth_date": "2015-03-14 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 0,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "phs",
+      "er_areaid": 125,
+      "area_id": 125,
+      "area_code": "Pedia",
+      "area_desc": "Pediatrics",
+      "age": "4 yr/s"
+    },
+    {
+      "encounter_no": "2019413155",
+      "pid": "1099804",
+      "encounter_date": "2019-09-04 10:02:00",
+      "name_first": "CRISELDA",
+      "name_last": "LAURON",
+      "name_middle": "ERUYLA",
+      "suffix": "",
+      "gender": "f",
+      "birth_date": "1959-10-27 00:00:00",
+      "admit_diagnosis2": null,
+      "discharge_dt": null,
+      "discharge_id": null,
+      "is_discharged": 1,
+      "parent_encounter_nr": null,
+      "doctor_id": null,
+      "role_id": null,
+      "deptenc_code": "ere",
+      "er_areaid": 133,
+      "area_id": 133,
+      "area_code": "FaMed",
+      "area_desc": "Family Medicine",
+      "age": "59 yr/s"
+    }
+  ],
+  "patient-information": [
+    {
+      "id": 2019022832,
+      "encounter_no": "2019022832",
+      "encounter_date": "2019-09-04 17:43:00",
+      "spin": "3008279",
+      "discharge_dt": null,
+      "is_discharged": 0,
+      "modify_id": "100751",
+      "modify_dt": "2019-09-16 05:09:04",
+      "create_id": "100751",
+      "create_dt": "2019-09-04 11:44:27",
+      "is_cancel": 0,
+      "cancel_reason": null,
+      "cancel_dt": null,
+      "cancel_id": null,
+      "admit_diagnosis2": "dfsdfs dfdf",
+      "parent_encounter_nr": null,
+      "is_favorite": true,
+      "hospital_days": "27 Day/s",
+      "spin0": {
+        "spin": "3008279",
+        "pid": "3008279",
+        "date_registered": "2019-09-04 17:45:12",
+        "create_id": "100751",
+        "create_dt": "2019-09-04 17:45:12",
+        "person_his": {
+          "pid": "3008279",
+          "firstName": "FAJAD",
+          "middleName": "ANTOR",
+          "lastName": "FAMA",
+          "suffix": null,
+          "gender": "m",
+          "civil_status": "married",
+          "cellphone_1_nr": "09978301802",
+          "create_id": "MA. ASUNCION DUQUE",
+          "dateOfBirth": "1954-12-30",
+          "place_birth": "PATOT, PIGCAWAYAN, COTABATO",
+          "name_search": "FAMA, FAJAD",
+          "email": null,
+          "soundex_namefirst": "F230",
+          "soundex_namelast": "F500",
+          "create_dt": "2017-09-19 11:45:43",
+          "modify_dt": "2017-09-25 09:41:25",
+          "street_name": "PUROK 3",
+          "prov_name": "COTABATO",
+          "brgy_name": "PATOT",
+          "mun_name": "PIGCAWAYAN",
+          "zipcode": "9412",
+          "religion_name": "Islam",
+          "occupation_name": "Farmer",
+          "citizenship": "Filipino",
+          "age": "64 yr/s old"
+        }
+      },
+      "current_dept_encounter": {
+        "deptenc_no": "2019022832",
+        "encounter_no": "2019022832",
+        "deptenc_code": "ipe",
+        "deptenc_date": "2019-09-04 11:44:27",
+        "er_areaid": 154,
+        "admit_diagnosis": "dfsdfs",
+        "admit_dt": "2019-09-04 17:45:12",
+        "modify_dt": "2019-09-04 11:44:27",
+        "create_dt": "2019-09-04 11:44:27",
+        "area": {
+          "area_id": 154,
+          "area_code": "IM",
+          "area_desc": "Internal Medicine",
+          "category": null,
+          "dept_id": 154,
+          "is_ward": 0,
+          "is_ER": 0,
+          "is_OP": 0,
+          "is_OR": null,
+          "area_class": "",
+          "specialty_code": null,
+          "is_deleted": 0,
+          "modify_id": "201500000001",
+          "modify_dt": "2019-04-10 16:21:34",
+          "create_id": "100464",
+          "create_dt": "2015-07-07 18:21:49",
+          "is_refer": 1
+        }
+      }
+    },
+    {
+      "id": 201950384737,
+      "encounter_no": "201950384737",
+      "encounter_date": "2019-09-04 10:06:00",
+      "spin": "2374395",
+      "discharge_dt": null,
+      "is_discharged": 0,
+      "modify_id": "103456",
+      "modify_dt": "2019-09-04 10:06:38",
+      "create_id": "103456",
+      "create_dt": "2019-09-04 10:06:38",
+      "is_cancel": 0,
+      "cancel_reason": null,
+      "cancel_dt": null,
+      "cancel_id": null,
+      "admit_diagnosis2": null,
+      "parent_encounter_nr": null,
+      "is_favorite": false,
+      "hospital_days": "27 Day/s",
+      "spin0": {
+        "spin": "2374395",
+        "pid": "2374395",
+        "date_registered": "2019-09-04 10:06:38",
+        "create_id": "103456",
+        "create_dt": "2019-09-04 10:06:38",
+        "person_his": {
+          "pid": "2374395",
+          "firstName": "LELENGY",
+          "middleName": "ARLANTE",
+          "lastName": "RAMAN",
+          "suffix": null,
+          "gender": "f",
+          "civil_status": "married",
+          "cellphone_1_nr": null,
+          "create_id": "MARLON JAY PACADA",
+          "dateOfBirth": "1975-08-30",
+          "place_birth": "DAVAO DEL NORTE",
+          "name_search": "RAMAN, LELENGY",
+          "email": null,
+          "soundex_namefirst": "L520",
+          "soundex_namelast": "R500",
+          "create_dt": "2012-02-09 10:03:42",
+          "modify_dt": "2019-09-04 10:06:25",
+          "street_name": "LOYOLA",
+          "prov_name": "DAVAO DEL SUR",
+          "brgy_name": "BARANGAY 17-B",
+          "mun_name": "DAVAO CITY",
+          "zipcode": "8000",
+          "religion_name": "Baptist",
+          "occupation_name": "Not Indicated",
+          "citizenship": "Filipino",
+          "age": "44 yr/s old"
+        }
+      },
+      "current_dept_encounter": null
+    },
+    {
+      "id": 201950384736,
+      "encounter_no": "201950384736",
+      "encounter_date": "2019-09-04 10:06:00",
+      "spin": "2514378",
+      "discharge_dt": null,
+      "is_discharged": 0,
+      "modify_id": "103456",
+      "modify_dt": "2019-09-04 10:06:10",
+      "create_id": "103456",
+      "create_dt": "2019-09-04 10:06:10",
+      "is_cancel": 0,
+      "cancel_reason": null,
+      "cancel_dt": null,
+      "cancel_id": null,
+      "admit_diagnosis2": null,
+      "parent_encounter_nr": null,
+      "is_favorite": false,
+      "hospital_days": "27 Day/s",
+      "spin0": {
+        "spin": "2514378",
+        "pid": "2514378",
+        "date_registered": "2019-09-04 10:06:10",
+        "create_id": "103456",
+        "create_dt": "2019-09-04 10:06:10",
+        "person_his": {
+          "pid": "2514378",
+          "firstName": "JESSA DE",
+          "middleName": "DIOLA",
+          "lastName": "ESTREMOS",
+          "suffix": null,
+          "gender": "f",
+          "civil_status": "single",
+          "cellphone_1_nr": null,
+          "create_id": "RIXELLE PET-PAOLA JUSTOL",
+          "dateOfBirth": "1995-01-10",
+          "place_birth": "DIGOS CITY",
+          "name_search": "ESTREMOS, JESSA DE",
+          "email": null,
+          "soundex_namefirst": "J300",
+          "soundex_namelast": "E23652",
+          "create_dt": "2013-05-21 09:46:22",
+          "modify_dt": "2019-09-04 10:05:55",
+          "street_name": "PUROK 25 TEACHERS VILLAGE",
+          "prov_name": "DAVAO DEL SUR",
+          "brgy_name": "CALINAN",
+          "mun_name": "DAVAO CITY",
+          "zipcode": "8000",
+          "religion_name": "ROMAN CATHOLIC*",
+          "occupation_name": "Not Indicated",
+          "citizenship": "Filipino",
+          "age": "24 yr/s old"
+        }
+      },
+      "current_dept_encounter": null
+    },
+    {
+      "id": 2019413157,
+      "encounter_no": "2019413157",
+      "encounter_date": "2019-09-04 10:05:00",
+      "spin": "2033595",
+      "discharge_dt": null,
+      "is_discharged": 0,
+      "modify_id": "109354",
+      "modify_dt": "2019-09-04 10:05:15",
+      "create_id": "109354",
+      "create_dt": "2019-09-04 10:05:15",
+      "is_cancel": 0,
+      "cancel_reason": null,
+      "cancel_dt": null,
+      "cancel_id": null,
+      "admit_diagnosis2": null,
+      "parent_encounter_nr": null,
+      "is_favorite": false,
+      "hospital_days": "27 Day/s",
+      "spin0": {
+        "spin": "2033595",
+        "pid": "2033595",
+        "date_registered": "2019-09-04 10:05:15",
+        "create_id": "109354",
+        "create_dt": "2019-09-04 10:05:15",
+        "person_his": {
+          "pid": "2033595",
+          "firstName": "CHERRY",
+          "middleName": "DABAL",
+          "lastName": "MILLARO",
+          "suffix": null,
+          "gender": "f",
+          "civil_status": "married",
+          "cellphone_1_nr": "09496535630",
+          "create_id": "RIZA LOURDES PEREZ",
+          "dateOfBirth": "1988-07-27",
+          "place_birth": "DAVAO CITY",
+          "name_search": "MILLARO, CHERRY",
+          "email": null,
+          "soundex_namefirst": "C600",
+          "soundex_namelast": "M460",
+          "create_dt": "2009-02-13 10:13:51",
+          "modify_dt": "2019-09-04 10:04:58",
+          "street_name": "STA CRUZ BEACH",
+          "prov_name": "DAVAO DEL SUR",
+          "brgy_name": "AGDAO",
+          "mun_name": "DAVAO CITY",
+          "zipcode": "8000",
+          "religion_name": " Catholic",
+          "occupation_name": "None",
+          "citizenship": "Filipino",
+          "age": "31 yr/s old"
+        }
+      },
+      "current_dept_encounter": null
+    }
+  ],
+  "subjective": [
+    {
+      "code": 200,
+      "saved": true,
+      "message": "Subjective saved successfully!"
+    }
+  ],
+  "objective": [
+    {
+      "code": 200,
+      "saved": true,
+      "message": "Objective saved successfully!"
+    }
+  ],
+  "clinical_impression": [
+    {
+      "code": 200,
+      "saved": true,
+      "message": "Clinical Impression saved successfully!"
+    }
+  ],
+  "icd": [
+    {
+      "code": 200,
+      "saved": true,
+      "message": "ICD added successfully!",
+      "clinicalimp_new": {
+        "clinical_imp": "no value",
+        "admitting_diag": "no value",
+        "icds": [
+          {
+            "pid": "kl236jNl76Bgjlkad",
+            "encounter_no": "1",
+            "icd_code": "A66",
+            "alt_diagnosis": "no diagnosis",
+            "create_id": "create123",
+            "create_dt": "2019-09-20",
+            "modify_id": "mod123",
+            "modify_dt": "2019-09-20",
+            "is_deleted": 0
+          }
+        ]
+      }
+    }
+  ],
+  "diagnosis": [
+    {
+      "code": 200,
+      "saved": true,
+      "message": "Diagnosis saved successfully!"
+    }
+  ],
+  "plan": [
+    {
+      "code": 200,
+      "saved": true,
+      "message": "Clinical summary saved successfully!"
+    }
+  ],
+  "getPatientSigns": [
+    {
+      "selected": [
+        1,
+        3,
+        5
+      ],
+      "pains": [
+        "Body pain",
+        "Nasal Tip"
+      ],
+      "others": [
+        "Lower extremity elema",
+        "Pallor",
+        "bipedal elema",
+        "Foreign body sensation"
+      ]
+    }
+  ],
+  "savePatientSigns": [
+    {
+      "selected": [
+        1,
+        3,
+        5
+      ],
+      "pains": [
+        "Body pain",
+        "Nasal Tip"
+      ],
+      "others": [
+        "Lower extremity elema",
+        "Pallor",
+        "bipedal elema",
+        "Foreign body sensation"
+      ]
+    }
+  ],
+  "searchPertinentPains": [
+    {
+      "id": 1,
+      "text": "Head ache"
+    },
+    {
+      "id": 2,
+      "text": "Tootch ache"
+    },
+    {
+      "id": 3,
+      "text": "Heart ache"
+    }
+  ],
+  "searchPertinentOthers": [
+    {
+      "id": 1,
+      "text": "Others ache"
+    },
+    {
+      "id": 2,
+      "text": "Others pain"
+    },
+    {
+      "id": 3,
+      "text": "Others heal"
+    }
+  ],
+  "present-illness": [
+    {
+      "id": 1,
+      "encounter_no": "1",
+      "history": "Subjective saved",
+      "spin": "200301"
+    }
+  ],
+  "past-medical-history": [
+    {
+      "encounter_no": "1",
+      "spin": "53asd142",
+      "disease_id": "1",
+      "specific_disease_description": "Mild and Tolerable Cold",
+      "is_deleted": "false",
+      "is_specific": "false",
+      "deleted_at": "cr",
+      "deleted_by": "janitor",
+      "created_by": "me",
+      "modified_by": "him",
+      "created_at": "hospital",
+      "updated_at": "today",
+      "phil_disease": {
+        "disease_id": "1",
+        "mdisease_code": "1",
+        "mdisease_description": "Cold",
+        "library_status": "2"
+      },
+      "id": 1
+    },
+    {
+      "encounter_no": "3",
+      "spin": "14143122",
+      "disease_id": "1",
+      "specific_disease_description": "Mild Cold",
+      "is_deleted": "false",
+      "is_specific": "false",
+      "deleted_at": "cr",
+      "deleted_by": "janitor",
+      "created_by": "me",
+      "modified_by": "him",
+      "created_at": "hospital",
+      "updated_at": "today",
+      "phil_disease": {
+        "disease_id": "1",
+        "mdisease_code": "1",
+        "mdisease_description": "Cold",
+        "library_status": "2"
+      },
+      "id": 2
+    },
+    {
+      "encounter_no": "5",
+      "specific_disease_description": "sadasd123adds",
+      "disease_id": 1,
+      "phil_disease": {
+        "mdisease_description": "Hypertension"
+      },
+      "id": 3
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "asdasdasd",
+      "disease_id": 1,
+      "phil_disease": {
+        "mdisease_description": "Hypertension"
+      },
+      "id": 4
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "sadadas",
+      "disease_id": 4,
+      "phil_disease": {
+        "mdisease_description": "Cold"
+      },
+      "id": 5
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "asdasdas",
+      "disease_id": 2,
+      "phil_disease": {
+        "mdisease_description": "Cough"
+      },
+      "id": 6
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "123123213",
+      "disease_id": 2,
+      "phil_disease": {
+        "mdisease_description": "Cough"
+      },
+      "id": 7
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "qweqwewq",
+      "disease_id": 2,
+      "phil_disease": {
+        "mdisease_description": "Cough"
+      },
+      "id": 8
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "adsdas",
+      "disease_id": 2,
+      "phil_disease": {
+        "mdisease_description": "Headache"
+      },
+      "id": 9
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "asdada",
+      "disease_id": 2,
+      "phil_disease": {
+        "mdisease_description": "Headache"
+      },
+      "id": 10
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "dasdasd",
+      "disease_id": 4,
+      "phil_disease": {
+        "mdisease_description": "Cold"
+      },
+      "id": 11
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "asdasd",
+      "disease_id": 3,
+      "phil_disease": {
+        "mdisease_description": "Asthma"
+      },
+      "id": 12
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "asdasd",
+      "disease_id": 3,
+      "phil_disease": {
+        "mdisease_description": "Asthma"
+      },
+      "id": 13
+    },
+    {
+      "encounter_no": "1",
+      "specific_disease_description": "asdadasda",
+      "disease_id": 2,
+      "phil_disease": {
+        "mdisease_description": "Headache"
+      },
+      "id": 14
+    }
+  ],
+  "surgical-history": [
+    {
+      "encounter_no": "1",
+      "description": "asdasd",
+      "date_of_operation": "2009-09-30T14:51:34.818+08:00",
+      "remarks": "asdsadas",
+      "id": 1
+    }
+  ],
+  "family-medical-history": [],
+  "social-medical-history": [
+    {
+      "id": 1,
+      "spin": "14143122",
+      "encounter_no": "1",
+      "is_smoke": "Y",
+      "years_smoking": 10,
+      "stick_per_day": 5,
+      "stick_per_year": "",
+      "is_alcohol": "Y",
+      "no_bottles": 0.2,
+      "is_drug": "N",
+      "remarks": "Occasional Drinker and Regular Smoker",
+      "is_deleted": "",
+      "create_dt": "",
+      "create_id": "",
+      "modify_dt": "",
+      "modify_id": "",
+      "created_at": "",
+      "updated_at": "",
+      "modified_at": "",
+      "created_by": "",
+      "modified_by": ""
+    },
+    {
+      "id": 2,
+      "spin": "14143122",
+      "encounter_no": "2",
+      "is_smoke": "N",
+      "years_smoking": 0,
+      "stick_per_day": 0,
+      "stick_per_year": 0,
+      "is_alcohol": "Y",
+      "no_bottles": 2,
+      "is_drug": "N",
+      "remarks": "Heavy Drinker",
+      "is_deleted": "",
+      "create_dt": "",
+      "create_id": "",
+      "modify_dt": "",
+      "modify_id": "",
+      "created_at": "",
+      "updated_at": "",
+      "modified_at": "",
+      "created_by": "",
+      "modified_by": ""
+    },
+    {
+      "id": 3,
+      "encounter_no": "4",
+      "spin": "200305",
+      "is_smoke": "Y",
+      "years_smoking": "1",
+      "stick_per_day": "1",
+      "stick_per_year": 0.05,
+      "is_alcohol": "N",
+      "no_bottles": 0,
+      "is_drug": "N",
+      "remarks": ""
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "code": 200,
+      "message": "Log-in Success!",
+      "token": "askjdnkKLMLefij398oijKnkladlksvMN",
+      "user": {
+        "id": 1,
+        "username": "admin",
+        "personnel_id": "admin",
+        "is_active": 1,
+        "person": {
+          "pid": "pid1234",
+          "name_last": "James",
+          "name_first": "Le",
+          "name_middle": "Bron",
+          "suffix": "",
+          "gender": "m",
+          "address_line1": "",
+          "contact_nos": "",
+          "email": "",
+          "birth_place": "",
+          "birth_date": ""
+        },
+        "current_assignment": {
+          "assignment_id": "assi12345",
+          "area_id": 1,
+          "dept_id": 1
+        },
+        "role": {
+          "role_id": "role1",
+          "role_name": "Doctor",
+          "role_desc": "Taga-heal (Support)",
+          "role_area": "Roaming",
+          "is_allowed": 1
+        },
+        "permissions": [
+          {
+            "id": 1,
+            "permission_id": "perm12345"
+          }
+        ]
+      }
+    }
+  ],
+  "menstrual-history": [
+    {
+      "id": 0
+    }
+  ],
+  "pregnant-history": [
+    {
+      "id": 0
+    }
+  ],
+  "gynecological-history": [
+    {
+      "id": 1,
+      "encounter_no": "1",
+      "datas": {
+        "menstrualHistorys": {
+          "id": 1,
+          "encounter_no": "1",
+          "spin": "",
+          "age_first_menstrual": "",
+          "last_period_menstrual": "",
+          "no_days_menstrual_period": "",
+          "interval_menstrual_period": "",
+          "no_pads": "",
+          "age_sex_intercourse": "",
+          "birth_control_used": "",
+          "is_menopause": "",
+          "age_menopause": "",
+          "remarks": "",
+          "is_deleted": "",
+          "created_at": "",
+          "updated_at": "",
+          "modified_at": "",
+          "created_by": "",
+          "modified_by": "",
+          "is_applicable_menstrual": ""
+        },
+        "pregnantHistorys": {
+          "id": 1,
+          "spin": "",
+          "encounter_no": "1",
+          "date_gravidity": "",
+          "date_parity": "",
+          "type_delivery": "",
+          "no_full_term_preg": "",
+          "no_premature": "",
+          "no_abortion": "",
+          "no_living_children": "",
+          "induced_hyper": "",
+          "family_planning": "",
+          "remarks": "",
+          "is_deleted": "",
+          "created_at": "",
+          "updated_at": "",
+          "modified_at": "",
+          "created_by": "",
+          "modified_by": "",
+          "is_applicable_pregnant": ""
+        }
+      }
+    }
+  ],
+  "referrals" : [
+    {
+      "id": 2019022832,
+      "referrals": [
+        {
+          "data": {
+            "department_desc": "Internal",
+            "area_desc": "Internal Medicine",
+            "reason_desc": "Internal Medicine",
+            "department": "Internal",
+            "area": "area",
+            "reason": "reason",
+            "referral_date_strtotime": "referral_date_strtotime",
+            "referral_time_ampm": "referral_time_ampm"
+          },
+          "referto_doctor_desc": "name",
+          "referto_doctorid": 1
+        },
+        {
+          "data": {
+            "department_desc": "External",
+            "area_desc": "External Medicine",
+            "reason_desc": "External Medicine",
+            "department": "External",
+            "area": "area",
+            "reason": "reason",
+            "referral_date_strtotime": "referral_date_strtotime",
+            "referral_time_ampm": "referral_time_ampm"
+          },
+          "referto_doctor_desc": "name",
+          "referto_doctorid": 1
+        }
+      ]
+    }
+  ]
+}
